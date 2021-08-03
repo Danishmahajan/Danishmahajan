@@ -2,6 +2,8 @@
 - 📫 Reach me at : gdanish@gmail.com
 - 🌱 I’m currently learning python.
 - 📫 Reach me at 6280453644
+
+- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Danishmahajan)
 <!--
 **Danishmahajan/Danishmahajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
