@@ -1,4 +1,4 @@
-- Hi ,I'm @Danishmahajan
+- 🤔 Hi ,I'm @Danishmahajan
 - 📫 Reach me at : gdanish@gmail.com
 - 🌱 I’m currently learning python.
 - 📫 Reach me at 6280453644
