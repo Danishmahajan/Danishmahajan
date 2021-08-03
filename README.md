@@ -1,5 +1,5 @@
-Hi ,I'm @Danishmahajan
-📫 How to reach me: gdanish@gmail.com
+- Hi ,I'm @Danishmahajan
+- 📫 How to reach me: gdanish@gmail.com
 - 🌱 I’m currently learning python.
 <!--
 **Danishmahajan/Danishmahajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
