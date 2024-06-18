@@ -1,6 +1,6 @@
 - 🤔 Hi ,I'm @Danishmahajan
 - 📫 Reach me at : gdanish081@gmail.com
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning Java.
 - 📫 Reach me at 6280453644
 
 <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Danishmahajan) -->
