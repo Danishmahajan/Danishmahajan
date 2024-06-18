@@ -1,8 +1,8 @@
 - 🤔 Hi ,I'm @Danishmahajan
 - 📫 Reach me at : gdanish081@gmail.com
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Java &Automation Testing.
 - 📫 Reach me at 6280453644
-- LinkedIn : http://linkedin.com/in/danish-mahajan-1557061a7
+- ![image](https://github.com/Danishmahajan/Danishmahajan/assets/64760966/677bde26-3cfb-49a1-9404-a927dff3dea1) LinkedIn : http://linkedin.com/in/danish-mahajan-1557061a7
 
 <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Danishmahajan) -->
 <!--
