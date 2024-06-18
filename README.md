@@ -2,7 +2,7 @@
 - 📫 Reach me at : gdanish081@gmail.com
 - 🌱 I’m currently learning Java &Automation Testing.
 - 📫 Reach me at 6280453644
--     LinkedIn : http://linkedin.com/in/danish-mahajan-1557061a7
+- LinkedIn : http://linkedin.com/in/danish-mahajan-1557061a7
 
 <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Danishmahajan) -->
 <!--
